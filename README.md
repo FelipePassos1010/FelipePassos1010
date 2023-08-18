@@ -1,9 +1,9 @@
 
 # 👋 Olá! Bem-vindo(a) ao meu perfil no Github.
-## Meu nome é Antônio Sant'Ana!
+## Meu nome é Felipe Passos!
 
-- 🔭 Atualmente estou trabalhando no PET Elétrica Ufes
-- 🌱 Atualmente estou aprendendo visão computacional e aprendizado de máquina para interação com hardware
+- 🔭 Atualmente estou trabalhando no Labic - Laboratório de Estudos sobre Imagem e Cibercultura
+- 🌱 Atualmente estou aprendendo Python para automatização de sistemas integrados em API!
 
 ## Tecnologias
 
