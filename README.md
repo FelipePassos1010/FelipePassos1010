@@ -2,8 +2,8 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil no Github.
 ## Meu nome é Felipe Passos!
 
-- 🔭 Atualmente estou trabalhando no Labic - Laboratório de Estudos sobre Imagem e Cibercultura
-- 🌱 Atualmente estou aprendendo Python para automatização de sistemas integrados em API!
+- 🔭 Atualmente estou trabalhando no Latel - Laboratório de Telecomunicações (UFES)
+- 🌱 Atualmente estou utilizando Python para coleta de dados de um sensor optico, um projeto de pesquisa da Petrobras!
 
 ## Tecnologias
 
